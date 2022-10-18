@@ -13,7 +13,6 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		F711B57428FE8E9400D38EA4 /* BaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F711B57328FE8E9400D38EA4 /* BaseController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +39,6 @@
 		6FB951B3FE8AFD100E8BD962 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A439638B8A8199860E5FD609 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EE548D565F7A9EAF1DBFD0B1 /* ModuleMovieList.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ModuleMovieList.podspec; path = ../ModuleMovieList.podspec; sourceTree = "<group>"; };
-		F711B57328FE8E9400D38EA4 /* BaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,17 +131,8 @@
 		F711B57128FE8E8500D38EA4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				F711B57228FE8E8B00D38EA4 /* Base */,
 			);
 			path = Classes;
-			sourceTree = "<group>";
-		};
-		F711B57228FE8E8B00D38EA4 /* Base */ = {
-			isa = PBXGroup;
-			children = (
-				F711B57328FE8E9400D38EA4 /* BaseController.swift */,
-			);
-			path = Base;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,7 +240,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
-				F711B57428FE8E9400D38EA4 /* BaseController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
