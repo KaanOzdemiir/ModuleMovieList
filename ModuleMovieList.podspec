@@ -22,7 +22,7 @@ MovieList module manage listing movies on app.
                        DESC
 
   s.swift_version = "4.2"
-  s.homepage         = 'https://github.com/Kaan Ozdemir/ModuleMovieList'
+  s.homepage         = 'https://github.com/KaanOzdemiir/ModuleMovieList'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kaan Ozdemir' => 'kaanozdemiir@gmail.com' }
