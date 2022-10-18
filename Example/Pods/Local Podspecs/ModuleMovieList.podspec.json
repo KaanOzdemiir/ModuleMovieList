@@ -1,0 +1,22 @@
+{
+  "name": "ModuleMovieList",
+  "version": "0.1.0",
+  "summary": "A short description of ModuleMovieList.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Kaan Ozdemir/ModuleMovieList",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kaan Ozdemir": "kaanozdemir@teknasyon.com"
+  },
+  "source": {
+    "git": "https://github.com/Kaan Ozdemir/ModuleMovieList.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ModuleMovieList/Classes/**/*"
+}
